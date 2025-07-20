@@ -1,0 +1,5 @@
+print('welcome to the world programing')
+print(2+3)
+print('warith'*5)
+print('he always rates his classes a 5 star')
+print('hello world')
