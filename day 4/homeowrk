@@ -1,0 +1,8 @@
+print("enter a number and i will make it the square root")
+number = int(input("enter your number"))
+
+
+square_root = math.sqrt("number")
+
+
+ print(f"The square root of {"number"} is {"square_root"}")
