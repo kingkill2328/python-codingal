@@ -15,4 +15,4 @@ elif perc > 60:
     print("you get C and a luxury beating from your parents")
 elif perc < 50:
     print ("you get an F and you ded")
-    
+     

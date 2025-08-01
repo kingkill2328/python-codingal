@@ -7,4 +7,11 @@ computerscience = int(input("enter marks in computerscience"))
 
 sum = math + litreture + science + socialstudies + computerscience
 perc = (sum / 500) * 100
-print("Overall percentage: ",perc)
+if perc > 80: 
+    print("you got an A+")
+elif perc > 70:
+    print("you got a B")
+elif perc > 60:
+    print("you get C and a luxury beating from your parents")
+elif perc < 50:
+    print ("you get an F and you ded")
